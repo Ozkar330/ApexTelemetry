@@ -46,8 +46,8 @@ This project was developed using a modern **AI-Assisted Workflow** via the Gemin
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[YOUR-USERNAME]/f1-data-companion.git
-   cd f1-data-companion
+   git clone https://github.com/Ozkar330/ApexTelemetry.git
+   cd ApexTelemetry
    ```
 2. Create and activate a virtual environment:
    ```bash
