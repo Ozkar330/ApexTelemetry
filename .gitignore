@@ -1,0 +1,36 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+livef1.log
+
+# Temporary data and outputs
+*.csv
+*.html
+*.json
+!requirements.txt
+!package.json
+
+# Project specific
+archive/
+session_data.json
+temp_*/
+data/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
